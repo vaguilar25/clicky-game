@@ -2,7 +2,7 @@
   "name": "click",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vaguilar25/clicky-game/tree/master/click",
+  "homepage": "http://vaguilar25.github.io/clicky-game",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
